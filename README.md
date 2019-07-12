@@ -2,11 +2,11 @@
 
 
 
-![](http://netburner.com/media/rokgallery/b/b31d8270-ba45-4a8f-e55a-47b3253e9f6f/647fa0ad-33b7-4fcc-fe45-a7e043898268.jpg)
+![](https://www.netburner.com/wp-content/uploads/2018/08/NANO54415-200IR-3T.jpg)
 
 ## Hardware Requirements
 
-[NANO54415 Development Kit](http://netburner.com/products/development-kits/nano54415-development-kit) available for $99 at the [NetBurner Store](http://www.netburnerstore.com/embedded_ethernet_development_p/nndk-nano54415-kit.htm)
+[NANO54415 Development Kit](https://www.netburner.com/products/system-on-modules/nano54415-ethernet-system-on-module/) available for $99 at the [NetBurner Store](https://www.netburner.com/products/system-on-modules/nano54415-ethernet-system-on-module/).
 
 ---
 
